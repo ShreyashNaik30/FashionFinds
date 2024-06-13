@@ -5,7 +5,7 @@ Description: This is an ecommerce website using HTML and CSS. The website allows
 Technologies Used: HTML CSS Getting Started To get started with this project, MYSQL database to store login credentials.
 
 Website Pages Included :
-home page ,
+home page <br>
 offers page ,
 shop page ,
 about us page ,
