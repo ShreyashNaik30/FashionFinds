@@ -14,3 +14,4 @@ login page
 sign up page
 
 
+![image](https://github.com/ShreyashNaik30/FashionFinds/assets/140256129/ae4a2266-c64b-41d4-b24f-9c5e1bbcdea3)
