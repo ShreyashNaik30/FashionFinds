@@ -6,11 +6,11 @@ Technologies Used: HTML CSS Getting Started To get started with this project, MY
 
 Website Pages Included :
 home page <br>
-offers page ,
-shop page ,
-about us page ,
-cart page ,
-login page ,
+offers page <br>
+shop page <br>
+about us page <br>
+cart page <br>
+login page <br>
 sign up page .
 
 
